@@ -19,9 +19,9 @@ Generates the simulation-based .dat datasets to be used with model pipelines; si
 * Required modules are Numpy, Scipy, torch , Os, Json ,matplotlib
 
 
-**Setup & Installation**
-Install libraries as follows (in a Jupyter/Colab cell):
-!pip install numpy scipy torch matplotlib
+**Setup & Installation** :
+  Install libraries as follows (in a Jupyter/Colab cell):
+> !pip install numpy scipy torch matplotlib
 
 **Running**
 1. Open the notebook in Jupyter/Colab.
@@ -45,7 +45,7 @@ Runs the SCM-GNN element-wise model and two versions of PatchGNN: Patch-based an
 **Setup & Installation**
   1. Install main dependencies (Colab cell):
      > !pip install torch torchvision torchaudio torch-geometric scikit-learn matplotlib -q
-  2. For PyG (Colab):
+  2. For PyG (Colab):
       > !pip install -q pyg_lib torch_scatter torch_sparse torch_cluster torch_spline_conv torch_geometric -f https://data.pyg.org/whl/torch-2.1.0+cu121.html
 
 **Running**

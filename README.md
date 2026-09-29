@@ -1,4 +1,4 @@
-#Low-SNR Spectrum Sensing using Graph Neural Networks
+# Low-SNR Spectrum Sensing using Graph Neural Networks
 We did this research as a part of course ECE310- Wireless Communications under the guidance of Professor Dhaval Patel and TA Prapti Patel. 
 ECE 310- Wireless Communication
                         SET OF INSTRUCTIONS AND EXECUTION
@@ -20,7 +20,7 @@ Generates the simulation-based .dat datasets to be used with model pipelines; si
 **Setup & Installation**
       Install libraries as follows (in a Jupyter/Colab cell):
 !pip install numpy scipy torch matplotlib
-*Running*
+**Running**
 1. Open the notebook in Jupyter/Colab.
 2. Run each block in sequence to generate simulated multi-antenna IQ signals using the given parameters.
 3. Save generated datasets as .dat binary files.

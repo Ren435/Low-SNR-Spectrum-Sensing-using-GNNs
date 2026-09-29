@@ -29,7 +29,7 @@ Generates the simulation-based .dat datasets to be used with model pipelines; si
 
 
 Output files will be written into the current directory, or made available for download from Colab (e.g. Final-5dB.dat, etc.). 
-## GNN_Patch_Group8.ipynb (SCM-GNN, PatchGNN, PatchGNN+ Models)
+## main.ipynb (SCM-GNN, PatchGNN, PatchGNN+ Models)
 **Functionality**
 Runs the SCM-GNN element-wise model and two versions of PatchGNN: Patch-based and Patch-based + Attention. Provides consistent train/test splits for fair comparisons and allows visualization of both results and comparisons.
 **Requirements**
